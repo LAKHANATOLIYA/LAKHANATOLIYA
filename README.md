@@ -5,11 +5,11 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-green)
 ![LLM](https://img.shields.io/badge/LLM-AI_Agents-orange)
-![Backend](https://img.shields.io/badge/FastAPI_|_Django-blueviolet)
+![Backend](https://img.shields.io/badge/Django_|_FastAPI-blueviolet)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 📍 Indore, India  
-💼 1.5+ Year Experience  
+💼 1.5+ Years Experience  
 
 ---
 
@@ -42,15 +42,18 @@
 
 ## 🔥 Featured Projects
 
+### 🚚 Last Mile Logistics Optimization
+- Processed 10M+ records  
+- Built ML models for delivery prediction  
+- Improved logistics efficiency using data insights
+  
 ### 🚀 MCP Report Model
-- AI-powered dynamic report generation system  
-- Uses LLM + structured pipelines  
+- LLM-powered automated report generation system  
+- Multi-source data (weather + stock) integration  
+- Built using FastAPI + AI agents     
 
 ### 🤖 Deep Search Chatbot
-- Context-aware intelligent chatbot  
-
-### 🚚 Last Mile Logistics Optimization
-- ML model on 10M+ dataset for delivery prediction  
+- Context-aware intelligent chatbot   
 
 ### 📊 Customer Churn Prediction
 - Classification model with feature engineering  
@@ -59,6 +62,9 @@
 
 ## 📈 GitHub Stats
 ![Lakhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAKHANATOLIYA&show_icons=true)
+
+## 📊 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LAKHANATOLIYA)
 
 ---
 
