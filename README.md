@@ -2,11 +2,11 @@
 
 🚀 AI/ML Developer | Python Backend Engineer  
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-green)
-![LLM](https://img.shields.io/badge/LLM-AI_Agents_&_Automation-orange)
-![Backend](https://img.shields.io/badge/FastAPI_|_Django-Backend-blueviolet)
-![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?logo=docker)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-green)
+![LLM](https://img.shields.io/badge/LLM-AI_Agents-orange)
+![Backend](https://img.shields.io/badge/FastAPI_|_Django-blueviolet)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 📍 Indore, India  
 💼 1.5+ Year Experience  
